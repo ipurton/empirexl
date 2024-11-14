@@ -1,0 +1,5 @@
+# How is informatics practiced?
+
+I don't enjoy directionless work, so it's hard for me to conceptualize developing theories of informatics. Imagining what that looks like, I imagine people developing theories around what would make people prefer a new system over an old one or on user engagement. Writing it down, it sounds like the thinking behind advertisements (or a playground): how can we get person X to like thing/person Y? Or maybe ergonomics: how can we make sitting at a desk as comfortable and non-debilatiating as possible?
+
+When I think about *doing* informatics, I think (with minimal imagination, admittedly) of the work I've done. Someone wants a system to do something different (a "functional requirement") and I have to (1) understand the user's stated requirement, (2) understand what they are trying to achieve, (3) understand whether the system can accomplish the requirement, and (4) understand how to change the system to fulfill the requirement (a "technical configuration"). You could represent that as follows:
