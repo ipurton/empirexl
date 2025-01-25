@@ -1,0 +1,1 @@
+In 2005 I attended the second annual Penny Arcade Expo in Belleue, Washington. Wandering the convention hall, I saw a Grim Reaper and aging British Invasion rocker duel it out to "Iron Man" at an arena dedicated to the forces of evil and the angelic. I was hooked.
